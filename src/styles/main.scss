@@ -1,0 +1,37 @@
+.main-section {
+    background-color: #015C89;
+    min-height: 100vh;
+  }
+  
+  .heading{
+  
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 98px;
+  line-height: 119px;
+  text-transform: capitalize;
+  color: #CCCCCC;
+  
+  }
+  
+  .subheading{
+  
+  /* Subheading */
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 150.9%;
+  text-transform: capitalize;
+  
+  color: #FFFFFF;
+  }
+  
+  .play-button{
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+  }
