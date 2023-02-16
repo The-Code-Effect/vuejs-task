@@ -32,5 +32,5 @@ const switchRoute = ()=>{
 </script>
 <style scoped lang='scss'>
 //
-@use '@/styles/card.scss'
+@use '@/styles/card.scss';
 </style>
