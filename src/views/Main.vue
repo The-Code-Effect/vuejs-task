@@ -30,5 +30,5 @@ const CardComponent = defineAsyncComponent(()=> import('@/components/CardCompone
 
 </script>
 <style lang="scss" scoped>
-@use '@/styles/main.scss'
+@use '@/styles/main.scss';
 </style>
